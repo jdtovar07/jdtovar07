@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: JUAN DIEGO TOVAR RODRIGUEZ
+FULL_NAME: Juan Diego Tovar Rodriguez
 GITHUB_USER: jdtovar07
 -->
 
