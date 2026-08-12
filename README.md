@@ -1,7 +1,7 @@
 <!--
 CONFIG
-FULL NAME: Juan Diego Tovar Rodriguez
-GITHUB USER: jdtovar07
+FULL_NAME: JUAN DIEGO TOVAR RODRIGUEZ
+GITHUB_USER: jdtovar07
 -->
 
 ## Hi there 👋
